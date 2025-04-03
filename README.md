@@ -23,6 +23,26 @@ Welcome to my Data Analysis Projects repository! This collection includes variou
 - **Description:** A deep dive into the Indian automobile market trends using data analysis.
 - **Tech Stack:** Python, Pandas, Matplotlib, Seaborn
 
+### 6. Retail Sales SQL Analysis
+- **Description**:
+- **Tech Stack**:
+
+### 7. Covid-19 Data Analysis
+- **Description**:
+- **Tech Stack**:
+
+### 8. Customer Churn Prediction
+- **Description**:
+- **Tech Stack**:
+
+### 9. Financial Forecasting Dashboard
+- **Description**:
+- **Tech Stack**:
+
+### 10. Supply Chain Analysis
+- **Description**:
+- **Tech Stack**:
+
 ## Future Updates & Enhancements
 More advanced machine learning models, real-time data integration, and enhanced visualization techniques.
 
